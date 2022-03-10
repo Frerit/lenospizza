@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "799623291934",
+    "project_id": "lenospizza2021f",
+    "storage_bucket": "lenospizza2021f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799623291934:android:d2ba4c7665c2a6730fba0f",
+        "android_client_info": {
+          "package_name": "com.example.lenospizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799623291934-7klaq5gi6es6glc0njf8as0t2mqsneqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenospizza",
+            "certificate_hash": "a32a9ce2a903a0d95d91828d1eec5bb3598a02bd"
+          }
+        },
+        {
+          "client_id": "799623291934-hm2740967kt43mm3f201jm1vfnulj4m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUqZMdDAKEd9E1dUSfrhKDaflZBpWQ3Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799623291934-hm2740967kt43mm3f201jm1vfnulj4m1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799623291934-17dq9aqkok1oaa36l352jsrffn1qra3p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "lenospizza"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
